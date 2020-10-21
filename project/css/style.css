@@ -1,0 +1,63 @@
+.btn-curve{
+    background-color: teal;
+    border: none;
+    border-radius: 15px;
+    width: 200px;
+    height: 50px;
+    color: white;
+    text-align: center;
+    /* box-shadow: 5px 3px 3px black; */
+    align-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+.banner{
+    width: 100%;
+    background-image: url(../images/banner.png);
+    height: 500px;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+}
+body{
+    background-color: white;
+}
+
+.middle{
+    background-color: #F4FAFA;
+    height: 600px;
+    width: 100%;
+
+}
+
+.footer{
+  position: relative;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: teal;
+  color: white;
+  text-align: center;
+  height: 50px;
+}
+
+.teal{
+  background-color: teal;
+}
+
+.teal-text{
+  color: teal;
+}
+
+.center{
+  align-content: center;
+  justify-content: center;
+  justify-items: center;
+  margin: 0;
+}
+.text-center{
+  text-align: center;
+  justify-content: center;
+}
+
